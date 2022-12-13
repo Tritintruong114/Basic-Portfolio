@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T09:03:58.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ahe1yFfy8gSXyWlyHC39" type="github"><diagram id="GpsO5wFTm6U9coLztMme">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-13T06:05:11.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="sm0v-99tO6cI4yGGy3jd" type="github">
+  <diagram id="LnR_T90Fm_lnS41TUF-0" name="Trang-1">
+    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yd6zbgEs29mMNPtTrTdH-1" value="A function that search information with the input.value" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="90" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="yd6zbgEs29mMNPtTrTdH-2" value="input a specific information such as actor, movie name, etc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
