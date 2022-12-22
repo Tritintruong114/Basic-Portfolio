@@ -1,14 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T06:05:11.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="sm0v-99tO6cI4yGGy3jd" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T03:31:34.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ujZ6iRKBM24vj8y5pEly" version="20.6.2" type="github">
   <diagram id="LnR_T90Fm_lnS41TUF-0" name="Trang-1">
-    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="1">
+    <mxGraphModel dx="868" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yd6zbgEs29mMNPtTrTdH-1" value="A function that search information with the input.value" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="90" width="150" height="160" as="geometry" />
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yd6zbgEs29mMNPtTrTdH-2" target="9qei7Cd3KPcISgE0-e2v-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="10" />
+              <mxPoint x="240" y="5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="yd6zbgEs29mMNPtTrTdH-2" value="input a specific information such as actor, movie name, etc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-6" value="input box have value" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qei7Cd3KPcISgE0-e2v-3">
+          <mxGeometry x="-0.3143" y="1" relative="1" as="geometry">
+            <mxPoint x="25" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yd6zbgEs29mMNPtTrTdH-2" target="9qei7Cd3KPcISgE0-e2v-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="80" />
+              <mxPoint x="100" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-9" value="input dont have value&lt;br&gt;or being delete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qei7Cd3KPcISgE0-e2v-8">
+          <mxGeometry x="-0.2462" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yd6zbgEs29mMNPtTrTdH-2" value="input a specific information such as actor, movie name, etc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9qei7Cd3KPcISgE0-e2v-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420.0042857142858" y="5" as="sourcePoint" />
+            <mxPoint x="627.8614285714286" y="15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="547" y="5" />
+              <mxPoint x="547" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-12" value="if type other value" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qei7Cd3KPcISgE0-e2v-11">
+          <mxGeometry x="0.1586" relative="1" as="geometry">
+            <mxPoint x="-7" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-2" value="Print out result&amp;nbsp;a different DIV that&lt;br&gt;&amp;nbsp;have absolute positon" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-60" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-7" value="That return to the&lt;br&gt;main page&lt;br&gt;while being deleted,&lt;br&gt;not waitng to refresh" style="rhombus;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="7.5" y="150" width="185" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-10" value="Delete the pass&lt;br&gt;results and print out&lt;br&gt;the new value&lt;br&gt;information" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-70" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qei7Cd3KPcISgE0-e2v-21" target="9qei7Cd3KPcISgE0-e2v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-21" value="the SEARCH BUTTON will do the function" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9qei7Cd3KPcISgE0-e2v-23" target="9qei7Cd3KPcISgE0-e2v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-23" value="Dont know how&lt;br&gt;to do the function&lt;br&gt;when print out&amp;nbsp;&lt;br&gt;other results" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="484.5" y="-90" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
