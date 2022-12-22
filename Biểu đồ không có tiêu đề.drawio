@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T03:31:34.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ujZ6iRKBM24vj8y5pEly" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T04:44:25.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="BWZSgg90W0TyAClR3pGn" version="20.6.2" type="github">
   <diagram id="LnR_T90Fm_lnS41TUF-0" name="Trang-1">
     <mxGraphModel dx="868" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="1">
       <root>
@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="9qei7Cd3KPcISgE0-e2v-9" value="input dont have value&lt;br&gt;or being delete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qei7Cd3KPcISgE0-e2v-8">
           <mxGeometry x="-0.2462" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yd6zbgEs29mMNPtTrTdH-2" value="input a specific information such as actor, movie name, etc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -53,6 +53,18 @@
         </mxCell>
         <mxCell id="9qei7Cd3KPcISgE0-e2v-7" value="That return to the&lt;br&gt;main page&lt;br&gt;while being deleted,&lt;br&gt;not waitng to refresh" style="rhombus;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="7.5" y="150" width="185" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9qei7Cd3KPcISgE0-e2v-10" target="9qei7Cd3KPcISgE0-e2v-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9qei7Cd3KPcISgE0-e2v-27" value="input dont have value&lt;br&gt;or being delete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9qei7Cd3KPcISgE0-e2v-25">
+          <mxGeometry x="-0.8966" y="-2" relative="1" as="geometry">
+            <mxPoint x="-288" y="126" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9qei7Cd3KPcISgE0-e2v-10" value="Delete the pass&lt;br&gt;results and print out&lt;br&gt;the new value&lt;br&gt;information" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="-70" width="140" height="140" as="geometry" />
